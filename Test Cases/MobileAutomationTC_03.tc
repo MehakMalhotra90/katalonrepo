@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MobileAutomationTC_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7e5d9fd-d027-42de-be02-db22d4f47f56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fdb7f64f-e1a9-44ec-a123-9501de6cba50</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>257a63b9-f32b-470e-99fd-830b53cde870</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'company'</defaultValue>
+      <description></description>
+      <id>fdb7f64f-e1a9-44ec-a123-9501de6cba50</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'company'</defaultValue>
+      <description></description>
+      <id>257a63b9-f32b-470e-99fd-830b53cde870</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

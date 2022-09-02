@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite_3</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7423520f-f545-4acc-a21f-e6d8a82e11dd</testSuiteGuid>
+   <testCaseLink>
+      <guid>60484a91-aa72-4e92-88a6-3737f94f3fac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MobileAutomationTC_02</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a983b131-8212-42e1-96f6-6181aa3654a6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dfiles/DataFiles</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a983b131-8212-42e1-96f6-6181aa3654a6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>94d4b374-0d6f-47c8-83f6-baa8704b5302</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a983b131-8212-42e1-96f6-6181aa3654a6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>29bb52f1-67ef-4bce-a178-03a2061ca0c4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0a32a9ad-e13f-405c-835f-1e5d2fd424b0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MobileAutomationTC_01</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>91e0b6b3-6661-4818-9512-6dedf815dd64</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dfiles/DataFiles</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>91e0b6b3-6661-4818-9512-6dedf815dd64</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>615df81b-d7a6-404f-9eea-9bc99b110e45</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>91e0b6b3-6661-4818-9512-6dedf815dd64</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>0f033120-b94c-4242-805c-5f6d2ebb1fac</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d6b9a02f-3b4a-4d9a-96f5-53c2af3e7480</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MobileAutomationTC_03</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>32737f18-1943-460f-8477-0702a504bf5b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dfiles/DataFiles</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>32737f18-1943-460f-8477-0702a504bf5b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>fdb7f64f-e1a9-44ec-a123-9501de6cba50</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>32737f18-1943-460f-8477-0702a504bf5b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>257a63b9-f32b-470e-99fd-830b53cde870</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
